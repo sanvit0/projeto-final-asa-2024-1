@@ -1,0 +1,16 @@
+# Logs gerados pelo sistema
+*.log
+src/sb_sc.log
+src/exeroot.log
+src/output.txt
+
+# Binários compilados (apenas o código C deve subir)
+src/exeroot
+
+# Arquivos de sistema e IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Configurações locais (opcional, se você criar um env)
+.env
