@@ -2,7 +2,7 @@
 
 Este repositório contém um **painel de controle de hospedagem web** desenvolvido como projeto acadêmico inicial no curso de Redes de Computadores. O objetivo era criar um sistema automatizado capaz de gerenciar domínios, usuários FTP e configurações de DNS/Apache em um ambiente Linux.
 
-> **⚠️ AVISO DE CONTEXTO:** Este projeto foi desenvolvido para um ambiente controlado e isolado (**LXC Container** com acesso via **VPN**) e com recursos limitados na época (**PHP 5.2** / CentOS).
+> ** AVISO DE CONTEXTO:** Este projeto foi desenvolvido para um ambiente controlado e isolado (**LXC Container** com acesso via **VPN**) e com recursos limitados na época (**PHP 5.2** / CentOS).
 >
 > **O código contém vulnerabilidades de segurança intencionais ou por limitações do cenário de aprendizado** e NÃO deve ser utilizado em produção. Ele serve apenas como "Legacy Code" para demonstrar a lógica de automação de sistemas via web e a evolução de conceitos.
 
